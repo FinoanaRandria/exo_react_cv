@@ -1,0 +1,63 @@
+.main{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.content1{
+    
+    background-color:#5271ff;
+    height: 1000px;
+    width: 1000px;
+    color: white;
+
+}
+
+.white{
+    color: white;
+}
+
+.content2{
+
+   margin-top: 300px;
+   margin: 20px;
+    
+}
+
+h2{
+    color:#5271ff;
+}
+
+.pdp{
+    position: relative;
+     left: 125px;
+     width: 200px;
+     
+}
+
+.cv{
+    position: relative;
+    left: 120px; 
+}  
+
+.cv1{
+    margin-top: 40px;
+    position: relative;
+    left: 120px;
+}
+
+.pers{
+    position: relative;
+    margin-top: 125px;
+}
+
+
+
+
+.content3{
+    display: flex;
+    margin-top:120px;
+   flex-direction: row;
+   gap: 211px;
+}
+

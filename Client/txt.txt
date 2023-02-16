@@ -1,0 +1,19 @@
+
+
+
+
+
+ const inf = () => {
+    information.innerHTML = `
+    <p>Nom: Randriambololomanana</p>
+    <p> Nom: Niriantsoa Finoana Sambatra</p>
+    <p> Telephone: 0347993137</p>
+    <p> Adrresse: FinoanaRandri@gmail.com</p>
+    
+         `;
+  };
+
+return (
+    
+  );
+}
